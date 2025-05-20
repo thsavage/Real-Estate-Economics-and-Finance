@@ -1,1 +1,2 @@
-This repository contains supplemental materials for 1035: Real Estate Economics and Finance
+# Real Estate Economics & Finance
+This repository contains supplemental materials for Real Estate Economics & Finance, REAL1-GC.1035/DEVE1-GC.1035, at the **NYU Schack Institute of Real Estate**.
